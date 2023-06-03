@@ -1,6 +1,6 @@
 class Kikoplay < Formula
   desc "NOT ONLY A Full-Featured Danmu Player"
-  homepage "https://github.com/KikoPlayProject/KikoPlay"
+  homepage "https://github.com/Lyle101/KikoPlay"
   license "GPL-3.0"
 
   stable do
@@ -14,7 +14,7 @@ class Kikoplay < Formula
   end
 
   head do
-    url "https://github.com/KikoPlayProject/KikoPlay.git"
+    url "https://github.com/Lyle101/KikoPlay.git"
 
     resource "script" do
       url "https://github.com/KikoPlayProject/KikoPlayScript.git"
